@@ -11,4 +11,4 @@ Hands-on API Rest com Spring Boot utilizando MongoDB para persistencia de dados.
 
 **Subir o banco :**
 
-ˋdocker-compose up -dˋ
+>docker-compose up -d
